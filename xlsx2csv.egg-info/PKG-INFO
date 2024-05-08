@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: xlsx2csv
+Version: 0.1.0
+Requires-Dist: openpyxl
+Requires-Dist: pandas
